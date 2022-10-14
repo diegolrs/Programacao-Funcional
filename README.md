@@ -5,7 +5,7 @@ Códigos utilizados para a cadeira de Linguagem e Laboratório de Linguagem de P
 ##  **Linguagem escolhida para abordamento:**  Elixir
 
 <p align="center">
-  <img width="30%" height="30%" src="https://github.com/dlrds/LPIII/blob/master/res/elixir.png">
+  <img width="30%" height="30%" src="https://github.com/dlrs/LPIII/blob/master/res/elixir.png">
 </p>
 
 ### LINGUAGEM DE PROGRAMAÇÃO III
